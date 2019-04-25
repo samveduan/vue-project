@@ -18,15 +18,15 @@
             active-text-color="#ffd04b">
             <el-menu-item index="2">
               <i class="el-icon-tickets"></i>
-              <span slot="title"><router-link to="/index/user">用户</router-link></span>
+              <span slot="title"><router-link to="/index/user">鐢ㄦ埛</router-link></span>
             </el-menu-item>
             <el-menu-item index="3">
               <i class="el-icon-date"></i>
-              <span slot="title"><router-link to="/index/server">服务器</router-link></span>
+              <span slot="title"><router-link to="/index/server">鏈嶅姟鍣�</router-link></span>
             </el-menu-item>
             <el-menu-item index="4">
               <i class="el-icon-setting"></i>
-              <span slot="title"><router-link to="/index/table">Table 表格</router-link></span>
+              <span slot="title"><router-link to="/index/table">Table 琛ㄦ牸</router-link></span>
             </el-menu-item>
             <el-menu-item index="9">
               <i class="el-icon-star-off"></i>
@@ -78,7 +78,7 @@
   }
 </style>
 
-<style scoped>
+<style lang="scss" scoped>
   #container{
     height: 100%;
   }
