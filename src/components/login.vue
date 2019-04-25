@@ -14,7 +14,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
   body{
     margin: 0;
   }
